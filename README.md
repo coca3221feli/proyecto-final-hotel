@@ -1,7 +1,11 @@
 # Sistema de ocupación y servicios para hotel (C++)
 
+
 **Universidad Mariano Gálvez de Guatemala · Algoritmos, Sección A · 2026**
+
 **Estudiante:** Oscar Roberto Pérez Velásquez · **Carné:** 2294-26-7087
+
+
 **Catedrático:** Ing. Mag. Jhensser Aguirre
 **Proyecto 09:** Hotel y hospedaje · **Variante B:** Ocupación y servicios
 
