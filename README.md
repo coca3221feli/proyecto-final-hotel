@@ -6,7 +6,9 @@
 **Estudiante:** Oscar Roberto Pérez Velásquez · **Carné:** 2294-26-7087
 
 
+
 **Catedrático:** Ing. Mag. Jhensser Aguirre
+
 **Proyecto 09:** Hotel y hospedaje · **Variante B:** Ocupación y servicios
 
 Sistema de consola en C++17 que administra un hotel de 4 pisos y 20 habitaciones. Permite hacer
