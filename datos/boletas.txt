@@ -1,0 +1,14 @@
+
+========== BOLETA - HOTEL ==========
+Cuenta    : 1002
+Huesped   : Carlos Diaz   DPI: 2222222222222
+Habitacion: 105 (Suite)
+------------------------------------
+Hospedaje 2 noche(s) x Q950.00 = Q1900.00
+  Restaurante Cena                 Q   250.50
+  Minibar     Agua                 Q    25.00
+Total consumos: Q275.50
+------------------------------------
+TOTAL A PAGAR : Q2175.50
+Pagado con    : Efectivo
+====================================
